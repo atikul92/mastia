@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700|Play:400,700|Raleway:400,600&display=swap');
+#header .fab{
+	color:#000;
+}
+#homeicon .fab{
+	font-size:50px;
+}
+#homeicon .fas{
+	font-size:50px;
+}
+#navbar .nav-link:hover{
+	color:#22A7F0;
+}
+#navbar .active{
+	color:#22A7F0;
+}
+#homeicon h4{
+	color:#22A7F0;
+}
+/* Slider */
+#slider{
+	height:300px;
+}
+#slider .swiper-slide{
+	background:#b2bec3;
+}
+    .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
+
+/* Counter */
+
+#counter{
+	background:#22A7F0;
+	color:#fff;
+}
+#counter h2{
+	font-family:play;
+	font-weight:Bold;
+	font-size:50px;
+}
+#counter h5{
+	font-family:play;
+	font-size:25px;
+}
